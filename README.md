@@ -22,6 +22,3 @@ npm start
 - CSS Grid
 - Bootstrap 4
 
-## Author
-
-Shikha Jhamb - [Shikhha](https://github.com/Shikhha)
